@@ -1,4 +1,3 @@
-# mabnasys.com
 
 To start:
 
